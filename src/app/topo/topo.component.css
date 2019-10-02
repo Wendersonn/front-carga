@@ -1,0 +1,14 @@
+.navbar {
+    background: #5B2E90
+}
+
+.titulo {
+    top: 2485px;
+    left: 99px;
+    width: 100%;
+    text-align: center;
+    font: 30px/20px Neo Sans Pro;
+    letter-spacing: 0;
+    color: #FF9200;
+    opacity: 1;
+}
